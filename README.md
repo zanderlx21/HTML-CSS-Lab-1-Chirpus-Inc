@@ -1,4 +1,4 @@
-# HTML/CSS Lab 1 - Nav, Buttons, Lorem Text, footer Nav
+# HTML/CSS Lab 1 - Nav, Buttons, Lorem Text, Flexbox
 
 Practicing my HTML skills using...
 
