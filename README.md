@@ -1,4 +1,4 @@
-# HTML/CSS Lab 1 - Nav, Buttons, Paragraphs, Flexbox
+# HTML/CSS Lab 1 - Navs, Buttons, Paragraphs, Flexbox
 
 Practicing my HTML skills using...
 
